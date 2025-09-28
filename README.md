@@ -44,7 +44,7 @@ This project highlights **Computer Science** as a *high-risk, high-reward* major
 
 ## 📸 Sample Visualizations  
 
-📌 **Unemployment Rate by Major (CS Highlighted)**  
+📌 **Unemployment Rate vs Median Wage by Major (CS Highlighted)**  
 ![Unemployment by Major](images/unemployment_by_major.png)  
 
 📌 **National Unemployment Rate (2019–2025)**  
